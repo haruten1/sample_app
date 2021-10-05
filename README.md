@@ -2,7 +2,7 @@
 
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
-# Toshiki Matsuoka
+# Matsuoka
 
 これは、次の教材で作られたサンプルアプリケーションです。
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
